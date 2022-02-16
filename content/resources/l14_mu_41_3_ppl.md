@@ -2,12 +2,16 @@
 content_type: resource
 description: Sample MU-41, view 3, under plane polarized light. Image courtesy of
   MIT OCW.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/548b70cefcdd835334d11d8e128f7c0f_L14_MU_41_3_ppl.jpg
+file: /media/courses/12-109-petrology-fall-2005/548b70cefcdd835334d11d8e128f7c0f_L14_MU_41_3_ppl.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Sample MU-41, view 3, under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-41, view 3, under plane polarized light.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lab 14
+parent_type: CourseSection
 resourcetype: Image
 title: L14_MU_41_3_ppl.jpg
 uid: 548b70ce-fcdd-8353-34d1-1d8e128f7c0f

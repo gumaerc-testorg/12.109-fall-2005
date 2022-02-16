@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 16f78ab4-869b-6a1c-441b-6a69c1eec132
 ---
@@ -249,7 +251,7 @@ Midterm Exam
 14
 {{< tdclose >}}
 {{< tdopen >}}
-6-Phase Equilibria: Silicate + H2O  
+6-Phase Equilibria: Silicate + H{{< sub "2" >}}O  
   
 Magma Generation in Subduction Zones
 {{< tdclose >}}

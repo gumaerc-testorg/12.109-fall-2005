@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f5b77fac-870c-7e61-1ec9-10cd30e2a62e
 ---
@@ -261,7 +264,7 @@ Mid-term
 14
 {{< tdclose >}}
 {{< tdopen >}}
-6-Phase Equilibria: Silicate + H2O  
+6-Phase Equilibria: Silicate + H{{< sub "2" >}}O  
   
 Magma Generation in Subduction Zones
 {{< tdclose >}}
@@ -269,7 +272,7 @@ Magma Generation in Subduction Zones
 [PDF]({{< baseurl >}}/resources/oct25notes2)
 {{< tdclose >}}
 {{< tdopen >}}
-Melting with H2O ([PDF]({{< baseurl >}}/resources/meltingwithh2o))
+Melting with H{{< sub "2" >}}O ([PDF]({{< baseurl >}}/resources/meltingwithh2o))
 {{< tdclose >}}
 
 {{< trclose >}}

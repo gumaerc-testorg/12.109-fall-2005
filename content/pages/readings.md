@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3d33e7cd-a656-5534-f48e-9c2688753212
 ---
@@ -253,7 +256,7 @@ Mid-term
 14
 {{< tdclose >}}
 {{< tdopen >}}
-6-Phase Equilibria: Silicate + H2O  
+6-Phase Equilibria: Silicate + H{{< sub "2" >}}O  
   
 Magma Generation in Subduction Zones
 {{< tdclose >}}

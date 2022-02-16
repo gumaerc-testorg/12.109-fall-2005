@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Sample MU-2H under plane polarized light. Image courtesy of MIT OCW.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/ea34626aab440cba9ae1dceeb831c4c1_L12_MU_2H_ppl.jpg
+file: /media/courses/12-109-petrology-fall-2005/ea34626aab440cba9ae1dceeb831c4c1_L12_MU_2H_ppl.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Sample MU-2H under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-2H under plane polarized light.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: L12_MU_2H_ppl.jpg
 uid: ea34626a-ab44-0cba-9ae1-dceeb831c4c1

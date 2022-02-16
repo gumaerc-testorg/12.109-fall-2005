@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Sample MS-23 under plane polarized light. Image courtesy of MIT OCW.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/b3c1d385fc19aa91d277121b9cfbaf9a_L13_MS_23_ppl.jpg
+file: /media/courses/12-109-petrology-fall-2005/b3c1d385fc19aa91d277121b9cfbaf9a_L13_MS_23_ppl.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Sample MS-23 under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MS-23 under plane polarized light.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lab 13
+parent_type: CourseSection
 resourcetype: Image
 title: L13_MS_23_ppl.jpg
 uid: b3c1d385-fc19-aa91-d277-121b9cfbaf9a
