@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: zeolites1.pdf
 uid: 368c1e7c-90fc-b1a4-0da6-3c2b4f7648d7

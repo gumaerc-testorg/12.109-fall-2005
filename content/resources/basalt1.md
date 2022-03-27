@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: basalt1.pdf
 uid: 2118a466-075b-ec80-126e-250eb19a7565

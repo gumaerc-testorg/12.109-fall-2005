@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab 14
 parent_type: CourseSection
+parent_uid: 22e15bb5-701b-be37-ee5c-95f9afedea7f
 resourcetype: Image
 title: L14_MU_64_ppl.jpg
 uid: 0132388d-e813-82c6-1d75-badb5afbb634

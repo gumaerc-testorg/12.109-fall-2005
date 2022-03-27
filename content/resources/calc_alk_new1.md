@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: calc_alk_new1.pdf
 uid: cc42ba46-159c-d6dc-481a-5b0d09a09dae

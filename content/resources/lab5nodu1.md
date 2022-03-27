@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: lab5nodu1.pdf
 uid: 7426b941-6286-9622-cd00-61b5f15f4a47

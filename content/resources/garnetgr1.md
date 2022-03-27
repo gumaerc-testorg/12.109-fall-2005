@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: garnetgr1.pdf
 uid: bf0943ef-bf5a-6f64-02fa-8c34094aaa52

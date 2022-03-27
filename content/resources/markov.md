@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3d33e7cd-a656-5534-f48e-9c2688753212
 resourcetype: Document
 title: markov.pdf
 uid: ac57b74d-28aa-40c7-4da4-e42b4016fcb3

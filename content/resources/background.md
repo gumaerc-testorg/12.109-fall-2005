@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3d33e7cd-a656-5534-f48e-9c2688753212
 resourcetype: Document
 title: background.pdf
 uid: 0a835fe7-b9f6-c54c-cff0-c108dcfa9544

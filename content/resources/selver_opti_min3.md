@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3d33e7cd-a656-5534-f48e-9c2688753212
 resourcetype: Document
 title: selver_opti_min3.pdf
 uid: 9054745f-ae6c-4d17-ba15-582aed75def9

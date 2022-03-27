@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3d33e7cd-a656-5534-f48e-9c2688753212
 resourcetype: Document
 title: optical.pdf
 uid: 900a40da-a49a-e913-d2c2-65592874afa3

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 322f6394-a4d5-2718-e573-052f38aab20a
 resourcetype: Image
 title: L12_MU_65_4_ppl.jpg
 uid: b578440e-5191-87d8-9ae1-47631c53f804

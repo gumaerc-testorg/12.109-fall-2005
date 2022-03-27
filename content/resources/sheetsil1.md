@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Document
 title: sheetsil1.pdf
 uid: 1ca1b8d1-5f4c-c11c-a847-5dd5da9e1d93
