@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-109-petrology-fall-2005/0a835fe7b9f6c54ccff0c108dcfa9544_background.pdf
+file: /courses/12-109-petrology-fall-2005/0a835fe7b9f6c54ccff0c108dcfa9544_background.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

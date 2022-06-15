@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-109-petrology-fall-2005/52d92b21b95ae9faa56923aad13642b9_Structure_of_Earth.pdf
+file: /courses/12-109-petrology-fall-2005/52d92b21b95ae9faa56923aad13642b9_Structure_of_Earth.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on hand samples of stones.
-file: /media/courses/12-109-petrology-fall-2005/a4304ff0dd25886b6687157d73c45f8b_gloplab1.pdf
+file: /courses/12-109-petrology-fall-2005/a4304ff0dd25886b6687157d73c45f8b_gloplab1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Document
 title: gloplab1.pdf
 uid: a4304ff0-dd25-886b-6687-157d73c45f8b
 ---
+This resource contains information on hand samples of stones.
+

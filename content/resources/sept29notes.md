@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-109-petrology-fall-2005/3f975a91d5b232fbc01d821286dabcb2_Sept29notes.pdf
+file: /courses/12-109-petrology-fall-2005/3f975a91d5b232fbc01d821286dabcb2_Sept29notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
