@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-2H under crossed polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: L12_MU_2H.jpg
 uid: feac84a5-672b-c6ee-7762-5785adc45ff0
 ---
 Sample MU-2H under crossed polarized light. Image courtesy of MIT OCW.
-

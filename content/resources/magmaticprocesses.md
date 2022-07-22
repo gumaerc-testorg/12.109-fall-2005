@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/69200628af0d6990592243fd56d0d304_magma
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

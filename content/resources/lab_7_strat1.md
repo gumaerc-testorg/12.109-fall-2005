@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Cross-section through Mt. Doom.
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Mt. Doom
 uid: 420ace49-e375-99de-9e8c-7f246fd5c3bc
 ---
 This is an imaginative cross-section through Mt. Doom.
-

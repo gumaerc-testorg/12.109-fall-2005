@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-65, view 4, under plane polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: L12_MU_65_4_ppl.jpg
 uid: b578440e-5191-87d8-9ae1-47631c53f804
 ---
 Sample MU-65, view 4, under plane polarized light. Image courtesy of MIT OCW.
-

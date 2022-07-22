@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-2H under plane polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: L12_MU_2H_ppl.jpg
 uid: ea34626a-ab44-0cba-9ae1-dceeb831c4c1
 ---
 Sample MU-2H under plane polarized light. Image courtesy of MIT OCW.
-

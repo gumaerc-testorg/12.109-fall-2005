@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/7efee0a3272e46ea66bdb49e3df32134_lab_p
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

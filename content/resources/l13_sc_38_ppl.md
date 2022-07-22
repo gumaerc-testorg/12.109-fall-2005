@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample SC-38 under plane polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab 13
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: L13_SC_38_ppl.jpg
 uid: daa79027-f4f0-e87b-c99e-b6093590b7d9
 ---
 Sample SC-38 under plane polarized light. Image courtesy of MIT OCW.
-

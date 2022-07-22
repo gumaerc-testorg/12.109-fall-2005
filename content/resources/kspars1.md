@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/3f70cc8e0aef2f591fa135ca92297fa5_kspar
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kspars1.pdf
 uid: 3f70cc8e-0aef-2f59-1fa1-35ca92297fa5
 ---
 This resource contains feldspar textures, and identification.
-

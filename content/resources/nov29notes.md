@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/1926afdc287feed33c9db4699560123f_Nov29
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

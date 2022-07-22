@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-61 under plane polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab 14
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: L14_MU_61_ppl.jpg
 uid: 50d68ec9-e420-3da9-5064-7a793af15d1a
 ---
 Sample MU-61 under plane polarized light. Image courtesy of MIT OCW.
-

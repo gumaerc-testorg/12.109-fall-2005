@@ -6,6 +6,7 @@ file: /courses/12-109-petrology-fall-2005/83743a5844055382244c51c712fccca1_hands
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handsamp.pdf
 uid: 83743a58-4405-5382-244c-51c712fccca1
 ---
 This resource contains a table with columns as properties and rows with minerals.
-

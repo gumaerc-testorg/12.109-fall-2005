@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/17526f02f32127a203da728055c69431_lab_8
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_8_gr1.pdf
 uid: 17526f02-f321-27a2-03da-728055c69431
 ---
 This resource contains information on granites.
-

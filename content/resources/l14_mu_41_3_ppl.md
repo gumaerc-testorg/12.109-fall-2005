@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-41, view 3, under plane polarized light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab 14
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: L14_MU_41_3_ppl.jpg
 uid: 548b70ce-fcdd-8353-34d1-1d8e128f7c0f
 ---
 Sample MU-41, view 3, under plane polarized light. Image courtesy of MIT OCW.
-

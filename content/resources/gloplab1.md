@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/a4304ff0dd25886b6687157d73c45f8b_glopl
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gloplab1.pdf
 uid: a4304ff0-dd25-886b-6687-157d73c45f8b
 ---
 This resource contains information on hand samples of stones.
-

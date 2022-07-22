@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/ac57b74d28aa40c74da4e42b4016fcb3_marko
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

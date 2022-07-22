@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/7e5c222c761db23896028f08ebcf22b9_lab_1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_14_bonus.pdf
 uid: 7e5c222c-761d-b238-9602-8f08ebcf22b9
 ---
 This resource asks about rock report.
-

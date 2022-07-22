@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/5321d747d9289eb3858cad6e1ab8a083_quart
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quartz1.pdf
 uid: 5321d747-d928-9eb3-858c-ad6e1ab8a083
 ---
 This resource contains identification of zeolites.
-

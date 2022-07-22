@@ -6,6 +6,7 @@ file: /courses/12-109-petrology-fall-2005/bf0943efbf5a6f6402fa8c34094aaa52_garne
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: garnetgr1.pdf
 uid: bf0943ef-bf5a-6f64-02fa-8c34094aaa52
 ---
 This resource contains information based on the garnet structure, identification, and members of the garnet group.
-

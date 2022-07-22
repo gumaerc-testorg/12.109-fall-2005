@@ -5,6 +5,7 @@ file: /courses/12-109-petrology-fall-2005/5f039760af8fc78bc1e7c82e00f021d0_lab_1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_12_met1.pdf
 uid: 5f039760-af8f-c78b-c1e7-c82e00f021d0
 ---
 This resource contains information about metamorphism of pelites.
-
