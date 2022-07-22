@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 322f6394-a4d5-2718-e573-052f38aab20a
 title: Lab 13
 uid: 93423b65-c3dc-c096-98bf-a16321e35e8d
@@ -8,7 +12,7 @@ uid: 93423b65-c3dc-c096-98bf-a16321e35e8d
 
 {{< anchor "Lab_13" >}}{{< /anchor >}}Lab 13 Image Gallery
 ----------------------------------------------------------
-{{< image-gallery id="93423b65-c3dc-c096-98bf-a16321e35e8d_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/" >}}
+{{< image-gallery id="93423b65-c3dc-c096-98bf-a16321e35e8d_nanogallery2" baseUrl="/courses/12-109-petrology-fall-2005/" >}}
 {{< image-gallery-item href="b3c1d385fc19aa91d277121b9cfbaf9a_L13_MS_23_ppl.jpg" data-ngdesc="Sample MS-23 under plane polarized light. Image courtesy of MIT OCW." text="Sample MS-23 under plane polarized light." >}}
 {{< image-gallery-item href="220a50b08fe3fc4f36e9fea3ea6ef346_L13_MS_23.jpg" data-ngdesc="Sample MS-23 under crossed polarized light. Image courtesy of MIT OCW." text="Sample MS-23 under crossed polarized light." >}}
 {{< image-gallery-item href="8625297ab9504d8fa5ad59e2c4d3595a_L13_MS_23_2.jpg" data-ngdesc="Sample MS-23, view 2, under crossed polarized light. Image courtesy of MIT OCW." text="Sample MS-23, view 2, under crossed polarized light." >}}

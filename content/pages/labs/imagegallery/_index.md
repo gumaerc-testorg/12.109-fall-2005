@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 title: Image Gallery
 uid: 322f6394-a4d5-2718-e573-052f38aab20a
@@ -14,7 +19,7 @@ uid: 322f6394-a4d5-2718-e573-052f38aab20a
 
 {{< anchor "lab12" >}}{{< /anchor >}}Lab 12 Image Gallery{{< anchor "test" >}}{{< /anchor >}}
 ---------------------------------------------------------------------------------------------
-{{< image-gallery id="322f6394-a4d5-2718-e573-052f38aab20a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/" >}}
+{{< image-gallery id="322f6394-a4d5-2718-e573-052f38aab20a_nanogallery2" baseUrl="/courses/12-109-petrology-fall-2005/" >}}
 {{< image-gallery-item href="ea34626aab440cba9ae1dceeb831c4c1_L12_MU_2H_ppl.jpg" data-ngdesc="Sample MU-2H under plane polarized light. Image courtesy of MIT OCW." text="Sample MU-2H under plane polarized light." >}}
 {{< image-gallery-item href="feac84a5672bc6ee77625785adc45ff0_L12_MU_2H.jpg" data-ngdesc="Sample MU-2H under crossed polarized light. Image courtesy of MIT OCW." text="Sample MU-2H under crossed polarized light." >}}
 {{< image-gallery-item href="695187d7d190f0b8ef6518b5099fb209_L12_MU_2H_2_ppl.jpg" data-ngdesc="Sample MU-2H, view 2, under plane polarized light. Image courtesy of MIT OCW." text="Sample MU-2H, view 2, under plane polarized light." >}}

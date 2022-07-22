@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 322f6394-a4d5-2718-e573-052f38aab20a
 title: Lab 14
 uid: 22e15bb5-701b-be37-ee5c-95f9afedea7f
@@ -8,7 +12,7 @@ uid: 22e15bb5-701b-be37-ee5c-95f9afedea7f
 
 {{< anchor "Lab_14" >}}{{< /anchor >}}Lab 14 Image Gallery
 ----------------------------------------------------------
-{{< image-gallery id="22e15bb5-701b-be37-ee5c-95f9afedea7f_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-109-petrology-fall-2005/" >}}
+{{< image-gallery id="22e15bb5-701b-be37-ee5c-95f9afedea7f_nanogallery2" baseUrl="/courses/12-109-petrology-fall-2005/" >}}
 {{< image-gallery-item href="906c750c5d0ce82e09cf37da0e71bc00_L14_MU_41_ppl.jpg" data-ngdesc="Sample MU-41 under plane polarized light. Image courtesy of MIT OCW." text="Sample MU-41 under plane polarized light." >}}
 {{< image-gallery-item href="ea2146904012b8bd12ec7bd914ca09af_L14_MU_41.jpg" data-ngdesc="Sample MU-41 under crossed polarized light. Image courtesy of MIT OCW." text="Sample MU-41 under crossed polarized light." >}}
 {{< image-gallery-item href="d1e914062ff22b40c856f843bbebc221_L14_MU_41_2.jpg" data-ngdesc="Sample MU-41, view 2, under crossed polarized light. Image courtesy of MIT OCW." text="Sample MU-41, view 2, under crossed polarized light." >}}

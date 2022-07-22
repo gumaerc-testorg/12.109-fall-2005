@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The Syllabus section contains information based on description, topics,
+  prerequisites, Labs, and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2d421695-a5f5-1dfd-8119-658bfb7efe8d
 ---
