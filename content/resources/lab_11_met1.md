@@ -3,6 +3,7 @@ content_type: resource
 description: This resource familiarize with metamorphic rock types and what they look
   like in hand sample.
 file: /courses/12-109-petrology-fall-2005/120a95cec1688222a6333a4a56210348_lab_11_met1.pdf
+file_size: 91925
 file_type: application/pdf
 learning_resource_types:
 - Labs

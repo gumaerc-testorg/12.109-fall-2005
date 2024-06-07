@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample SC-38 under plane polarized light. Image courtesy of MIT OCW.
 file: /courses/12-109-petrology-fall-2005/daa79027f4f0e87bc99eb6093590b7d9_L13_SC_38_ppl.jpg
+file_size: 83651
 file_type: image/jpeg
 image_metadata:
   caption: Sample SC-38 under plane polarized light.
