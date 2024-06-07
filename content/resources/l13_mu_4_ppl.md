@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample MU-4 under plane polarized light. Image courtesy of MIT OCW.
 file: /courses/12-109-petrology-fall-2005/3a32f0f8063f25d69bb63f9a287889fe_L13_MU_4_ppl.jpg
+file_size: 69562
 file_type: image/jpeg
 image_metadata:
   caption: Sample MU-4 under plane polarized light.

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about phyllosilicates, and micas.
 file: /courses/12-109-petrology-fall-2005/1ca1b8d15f4cc11ca8475dd5da9e1d93_sheetsil1.pdf
+file_size: 76208
 file_type: application/pdf
 learning_resource_types:
 - Labs
