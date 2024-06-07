@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains hand samples, and thin sections.
 file: /courses/12-109-petrology-fall-2005/bd01a8c8a94f58adc77b89e3bf4a0756_lab1b.pdf
+file_size: 64050
 file_type: application/pdf
 learning_resource_types:
 - Labs
