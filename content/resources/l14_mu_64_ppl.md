@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample MU-64 under plane polarized light. Image courtesy of MIT OCW.
-file: /courses/12-109-petrology-fall-2005/0132388de81382c61d75badb5afbb634_L14_MU_64_ppl.jpg
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/0132388de81382c61d75badb5afbb634_L14_MU_64_ppl.jpg
 file_size: 64570
 file_type: image/jpeg
 image_metadata:
