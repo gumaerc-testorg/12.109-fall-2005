@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains hand samples, and thin sections.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/e6c50baf592a9966223805c17a8fdff8_lab31.pdf
+file: /courses/12-109-petrology-fall-2005/e6c50baf592a9966223805c17a8fdff8_lab31.pdf
 file_size: 68072
 file_type: application/pdf
 learning_resource_types:

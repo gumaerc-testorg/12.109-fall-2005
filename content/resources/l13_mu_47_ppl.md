@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample MU-47 under plane polarized light. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/31e36a4863eb0a30f2a201d23ec1a5b9_L13_MU_47_ppl.jpg
+file: /courses/12-109-petrology-fall-2005/31e36a4863eb0a30f2a201d23ec1a5b9_L13_MU_47_ppl.jpg
 file_size: 82580
 file_type: image/jpeg
 image_metadata:

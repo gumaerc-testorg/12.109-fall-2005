@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource talks about light path through microscope.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/9a4580c407795123d4fa73c313d821bd_lab_note_sep_13.pdf
+file: /courses/12-109-petrology-fall-2005/9a4580c407795123d4fa73c313d821bd_lab_note_sep_13.pdf
 file_size: 83997
 file_type: application/pdf
 learning_resource_types:
