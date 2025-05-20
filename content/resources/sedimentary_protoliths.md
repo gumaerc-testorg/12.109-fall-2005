@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/5e1b4a2990404157aa1fd3b65bb05168_sedimentary_protoliths.pdf
+file: /courses/12-109-petrology-fall-2005/5e1b4a2990404157aa1fd3b65bb05168_sedimentary_protoliths.pdf
 file_size: 112865
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/7863604dcfa218b88cfb6ea3ba27af8d_ternarysystems.pdf
+file: /courses/12-109-petrology-fall-2005/7863604dcfa218b88cfb6ea3ba27af8d_ternarysystems.pdf
 file_size: 173653
 file_type: application/pdf
 learning_resource_types:

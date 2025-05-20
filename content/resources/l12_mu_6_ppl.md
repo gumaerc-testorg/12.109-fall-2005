@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample MU-6 under plane polarized light. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/3e74c1b861be8c4470c965469adea633_L12_MU_6_ppl.jpg
+file: /courses/12-109-petrology-fall-2005/3e74c1b861be8c4470c965469adea633_L12_MU_6_ppl.jpg
 file_size: 80363
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample MU-13, view 3, under plane polarized light. Image courtesy of
   MIT OCW.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/747d3d0aec4c6bb8597f9edef0b19e01_L12_MU_13_3_ppl.jpg
+file: /courses/12-109-petrology-fall-2005/747d3d0aec4c6bb8597f9edef0b19e01_L12_MU_13_3_ppl.jpg
 file_size: 76141
 file_type: image/jpeg
 image_metadata:

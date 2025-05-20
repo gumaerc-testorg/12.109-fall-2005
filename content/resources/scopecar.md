@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource talks about microscope care, and adjusting the microscope.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/c4a54deb9a5e42e9b8b111565d4203fd_scopecar.pdf
+file: /courses/12-109-petrology-fall-2005/c4a54deb9a5e42e9b8b111565d4203fd_scopecar.pdf
 file_size: 66521
 file_type: application/pdf
 learning_resource_types:
