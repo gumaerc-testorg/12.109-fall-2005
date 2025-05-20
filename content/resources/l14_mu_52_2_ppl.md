@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample MU-52, view 2, under plane polarized light. Image courtesy of
   MIT OCW.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/9f3436974fbf73b6d1716e54c466a13f_L14_MU_52_2_ppl.jpg
+file: /courses/12-109-petrology-fall-2005/9f3436974fbf73b6d1716e54c466a13f_L14_MU_52_2_ppl.jpg
 file_size: 60784
 file_type: image/jpeg
 image_metadata:

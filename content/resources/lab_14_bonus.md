@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource asks about rock report.
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/7e5c222c761db23896028f08ebcf22b9_lab_14_bonus.pdf
+file: /courses/12-109-petrology-fall-2005/7e5c222c761db23896028f08ebcf22b9_lab_14_bonus.pdf
 file_size: 65853
 file_type: application/pdf
 learning_resource_types:

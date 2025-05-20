@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/2e2da48f30864ebd54e3675ad50b5c64_meltingwithh2o.pdf
+file: /courses/12-109-petrology-fall-2005/2e2da48f30864ebd54e3675ad50b5c64_meltingwithh2o.pdf
 file_size: 315483
 file_type: application/pdf
 learning_resource_types:
