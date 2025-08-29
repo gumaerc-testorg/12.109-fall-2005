@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains hand samples, and thin sections.
-file: /courses/12-109-petrology-fall-2005/b7f33976af9ab1525c581e1f270e794c_textures_20051.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/b7f33976af9ab1525c581e1f270e794c_textures_20051.pdf
 file_size: 86354
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
