@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains identification of hand samples.
-file: /courses/12-109-petrology-fall-2005/88f3e27c61382f31c1217de32432e376_spinelgr1.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/88f3e27c61382f31c1217de32432e376_spinelgr1.pdf
 file_size: 58319
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

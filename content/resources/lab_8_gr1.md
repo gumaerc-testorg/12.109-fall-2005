@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information on granites.
-file: /courses/12-109-petrology-fall-2005/17526f02f32127a203da728055c69431_lab_8_gr1.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/17526f02f32127a203da728055c69431_lab_8_gr1.pdf
 file_size: 71421
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

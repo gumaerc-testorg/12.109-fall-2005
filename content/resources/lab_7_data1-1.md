@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-109-petrology-fall-2005/ed8f813f3b2ee33b76c37d4ac0d35cf0_lab_7_data1.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/ed8f813f3b2ee33b76c37d4ac0d35cf0_lab_7_data1.pdf
 file_size: 66999
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

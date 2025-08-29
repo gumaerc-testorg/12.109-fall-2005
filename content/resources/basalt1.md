@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information and questions about basalts.
-file: /courses/12-109-petrology-fall-2005/2118a466075bec80126e250eb19a7565_basalt1.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/2118a466075bec80126e250eb19a7565_basalt1.pdf
 file_size: 67882
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

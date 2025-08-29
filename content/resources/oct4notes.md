@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-109-petrology-fall-2005/1af95b675ed220e3b9c937b0318eaddd_Oct4notes.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/1af95b675ed220e3b9c937b0318eaddd_Oct4notes.pdf
 file_size: 142371
 file_type: application/pdf
 learning_resource_types:
