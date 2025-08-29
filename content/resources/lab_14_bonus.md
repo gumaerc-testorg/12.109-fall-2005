@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource asks about rock report.
-file: /courses/12-109-petrology-fall-2005/7e5c222c761db23896028f08ebcf22b9_lab_14_bonus.pdf
+file: /ol-ocw-studio-app/courses/12-109-petrology-fall-2005/7e5c222c761db23896028f08ebcf22b9_lab_14_bonus.pdf
 file_size: 65853
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
